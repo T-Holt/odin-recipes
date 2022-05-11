@@ -1,0 +1,12 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    padding: 2em 10em 2em 10em;
+}
+
+body {
+    font-family: "Georgia", serif;
+}
