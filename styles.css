@@ -9,4 +9,44 @@
 
 body {
     font-family: "Georgia", serif;
+    color: hsl(0, 0%, 15%);
+}
+
+.index-h1 {
+    font-size: 100px;
+    padding-top: 50px;
+}
+
+.recipe-list {
+    padding-top: 50px;
+    font-size: 25px;
+}
+
+.index-body {
+    background-color: rgb(128, 128, 128, 0.3);
+}
+
+.brekky-body, .fancy-body {
+    background-color: rgb(0, 0, 255, 0.1);
+}
+
+
+.drunk-body {
+    background-color: rgb(255, 0, 0, 0.1);
+}
+
+img {
+    height: 500px;
+}
+
+.recipe-title {
+    font-size: 50px;
+    color: hsl(0, 0%, 15%);
+    border: solid 0.05em;
+    padding: 0.5em;
+}
+
+.drunk-title {
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, sans-serif;
+    font-weight: bolder;
 }
